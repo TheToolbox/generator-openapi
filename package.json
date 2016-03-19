@@ -1,6 +1,6 @@
 {
   "name": "generator-openapi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Yeoman generator package for making openAPI-based APIs for several platforms.",
   "main": "index.js",
   "scripts": {
