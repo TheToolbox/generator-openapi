@@ -1,0 +1,24 @@
+{
+  "name": "generator-openapi",
+  "version": "0.0.1",
+  "description": "A Yeoman generator package for making openAPI-based APIs for several platforms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/TheToolbox/generator-openapi.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "openAPI",
+    "swagger",
+    "api"
+  ],
+  "author": "Jason \"Toolbox\" Oettinger <jason@oettinger.email>",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.22.5"
+  }
+}
